@@ -1,0 +1,8 @@
+Alumno	Materia - No existe el alumno
+
+Pedro	Programacion II - Aprobada
+
+Sofia	Bases de datos II - Aprobada
+
+Lucas	Programacion III - Rechazada
+
